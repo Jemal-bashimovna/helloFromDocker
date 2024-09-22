@@ -10,5 +10,4 @@ func main() {
 	cmd.PrintFunc()
 	// otmena izmeneniy;
 	// otmena commita
-	cmd.AdminBranch()
 }

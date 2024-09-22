@@ -1,8 +1,11 @@
 package main
 
-import "project1/cmd"
+import (
+	"fmt"
+	"project1/cmd"
+)
 
 func main() {
-	//fmt.Println("hello")
+	fmt.Println("hello")
 	cmd.PrintFunc()
 }

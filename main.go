@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println("hello")
 	cmd.PrintFunc()
+	// otmena izmeneniy;
+	// otmena commita
 }
